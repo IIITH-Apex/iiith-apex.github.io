@@ -101,6 +101,7 @@
 	width: 100%;
 	left: 0;
 	z-index: 1000;
+    background: black;
 }
 
 .nav-dots span {
@@ -112,7 +113,7 @@
 	/*border-radius: 15%;*/
 	/*margin: 3px;*/
 	color: white;
-	background: #ddd;
+	background: black;
 	background: rgba(150,150,150,0.4);
 	cursor: pointer;
 	/*box-shadow: 
