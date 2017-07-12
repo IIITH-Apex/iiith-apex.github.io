@@ -1,2 +1,4 @@
-# iiith-apex.github.io
-IIIT-H Student Kit
+# StudentKit2015
+Finally, it's here
+
+ugadmissions.iiit.ac.in/StudentKit/
